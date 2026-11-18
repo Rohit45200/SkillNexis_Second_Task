@@ -1,0 +1,6 @@
+{
+  "name": "StudioCraft React & REST API Practice Suite",
+  "description": "React Fundamentals Practice Application using CSS Modules, React Router DOM, Props, State, and To-Do Management, alongside three Node.js Express MongoDB REST API projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
